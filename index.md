@@ -26,6 +26,7 @@ Wij proberen met onze actiegroep zoveel mogelijk praktisch en begrijpelijk exper
 * [Nieuwsbericht](https://www.bevolkingsonderzoeknederland.nl/nieuws/ruim-405000-deelnemers-bevolkingsonderzoek-baarmoederhalskanker-ontvangen-brief-na-datalek/) over brief naa aanleiding van het datalek - Bevolkingsonderzoek Nederland (19 aug)
 * [Veelgestelde vragen](https://www.bevolkingsonderzoeknederland.nl/baarmoederhalskanker/veelgestelde-vragen-datalek/) over het datalek - Bevolkingsonderzoek Nederland
 * [Berichten](https://clinicaldiagnostics.nl/nl/belangrijk-bericht-over-gegevens-van-patienten-en-zorgverleners/) van Clinical Diagnostics
+  * [Bericht](https://clinicaldiagnostics.nl/nl/onderzoek-via-bevolkingsonderzoek-nederland/) over onderzoeken via Bevolkingsonderzoek Nederland
 
 ## Nieuwsartikelen
 * Data [half miljoen vrouwen](https://www.rtl.nl/nieuws/binnenland/artikel/5522737/bevolkingsonderzoek-baarmoederhalskanker-data-gehackt-vrouwen) gehackt bij bevolkingsonderzoek baarmoederhalskanker - RTL Nieuws (11 aug)
