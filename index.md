@@ -1,6 +1,19 @@
-# (Don't) Hack the Women
+# Digitale Dolle Mina's
 
-TODO: inleiding
+Het datalek bij Clinical Diagnostics heeft honderdduizenden vrouwen geraakt. Misschien ben jij één van hen. Misschien heb je net die brief ontvangen en zit je met vragen: Wat betekent dit voor mij? Moet ik iets doen? Ben ik nu in gevaar?
+
+Wij zijn de Digitale Dolle Mina’s; vrouwen die dagelijks werken in cybersecurity én die zelf ook geraakt zijn als dochter, moeder, vriendin. We weten hoe het voelt, en we weten hoe de techniek werkt. Daarom hebben we deze plek gemaakt: om je eerlijk, helder en praktisch te informeren over de gevolgen van dit datalek.
+
+Hier vind je:
+
+- Eerlijke uitleg over wat er is gebeurd en wat dat betekent.
+- Adviezen over hoe je jezelf kunt beschermen, digitaal én in het dagelijks leven.
+- Updates die je niet hoeft te filteren door PR-taal of juridische rookgordijnen.
+
+Want jouw medische gegevens zijn geen handelswaar. Je hebt recht op duidelijkheid, veiligheid en respect.
+
+Baas in eigen data!
+
 
 ## Wat nu?
 
