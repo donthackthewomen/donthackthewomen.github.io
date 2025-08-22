@@ -22,11 +22,15 @@ Wij proberen met onze actiegroep zoveel mogelijk praktisch en begrijpelijk exper
 * [LinkedIn groep](https://lnkd.in/e4PvZjy6) voor gedupeerden
 
 ## Officiele berichtgeving
-* [Nieuwsbericht](https://www.bevolkingsonderzoeknederland.nl/nieuws/datalek-met-ruim-485000-deelnemers-bevolkingsonderzoek-baarmoederhalskanker-na-hack-bij-extern-laboratorium/) over het datalek - Bevolkingsonderzoek Nederland (11 aug) 
-* [Nieuwsbericht](https://www.bevolkingsonderzoeknederland.nl/nieuws/ruim-405000-deelnemers-bevolkingsonderzoek-baarmoederhalskanker-ontvangen-brief-na-datalek/) over brief naa aanleiding van het datalek - Bevolkingsonderzoek Nederland (19 aug)
-* [Veelgestelde vragen](https://www.bevolkingsonderzoeknederland.nl/baarmoederhalskanker/veelgestelde-vragen-datalek/) over het datalek - Bevolkingsonderzoek Nederland
-* [Berichten](https://clinicaldiagnostics.nl/nl/belangrijk-bericht-over-gegevens-van-patienten-en-zorgverleners/) van Clinical Diagnostics
-  * [Bericht](https://clinicaldiagnostics.nl/nl/onderzoek-via-bevolkingsonderzoek-nederland/) over onderzoeken via Bevolkingsonderzoek Nederland
+Bevolkingsonderzoek Nederland:
+* [Nieuwsbericht](https://www.bevolkingsonderzoeknederland.nl/nieuws/datalek-met-ruim-485000-deelnemers-bevolkingsonderzoek-baarmoederhalskanker-na-hack-bij-extern-laboratorium/) over het datalek (11 aug) 
+* [Nieuwsbericht](https://www.bevolkingsonderzoeknederland.nl/nieuws/ruim-405000-deelnemers-bevolkingsonderzoek-baarmoederhalskanker-ontvangen-brief-na-datalek/) over brief naar aanleiding van het datalek (19 aug)
+* [Brieftekst](https://www.bevolkingsonderzoeknederland.nl/media/nqkh2hr1/20250811_conceptbrief-cli%C3%ABnten-incident-bmhk_def.pdf) 
+* [Veelgestelde vragen](https://www.bevolkingsonderzoeknederland.nl/baarmoederhalskanker/veelgestelde-vragen-datalek/) over het datalek
+Clinical Diagnostics: 
+* [Start](https://clinicaldiagnostics.nl/nl/belangrijk-bericht-over-gegevens-van-patienten-en-zorgverleners/) bericht van Clinical Diagnostics
+* [Bericht](https://clinicaldiagnostics.nl/nl/onderzoek-via-bevolkingsonderzoek-nederland/) over onderzoeken via Bevolkingsonderzoek Nederland
+* [Bericht](https://clinicaldiagnostics.nl/nl/onderzoek-via-andere-zorgverlener/) over onderzoeken via een andere zorgaanbieder
 
 ## Nieuwsartikelen
 * Data [half miljoen vrouwen](https://www.rtl.nl/nieuws/binnenland/artikel/5522737/bevolkingsonderzoek-baarmoederhalskanker-data-gehackt-vrouwen) gehackt bij bevolkingsonderzoek baarmoederhalskanker - RTL Nieuws (11 aug)
