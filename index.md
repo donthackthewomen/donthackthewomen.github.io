@@ -27,10 +27,16 @@ Bevolkingsonderzoek Nederland:
 * [Nieuwsbericht](https://www.bevolkingsonderzoeknederland.nl/nieuws/ruim-405000-deelnemers-bevolkingsonderzoek-baarmoederhalskanker-ontvangen-brief-na-datalek/) over brief naar aanleiding van het datalek (19 aug)
 * [Brieftekst](https://www.bevolkingsonderzoeknederland.nl/media/nqkh2hr1/20250811_conceptbrief-cli%C3%ABnten-incident-bmhk_def.pdf) 
 * [Veelgestelde vragen](https://www.bevolkingsonderzoeknederland.nl/baarmoederhalskanker/veelgestelde-vragen-datalek/) over het datalek
+
 Clinical Diagnostics: 
 * [Start](https://clinicaldiagnostics.nl/nl/belangrijk-bericht-over-gegevens-van-patienten-en-zorgverleners/) bericht van Clinical Diagnostics
 * [Bericht](https://clinicaldiagnostics.nl/nl/onderzoek-via-bevolkingsonderzoek-nederland/) over onderzoeken via Bevolkingsonderzoek Nederland
 * [Bericht](https://clinicaldiagnostics.nl/nl/onderzoek-via-andere-zorgverlener/) over onderzoeken via een andere zorgaanbieder
+
+Z-Cert:
+* [Bericht](https://z-cert.nl/actueel/nieuws/ransomware-aanval) van 11 augustus 
+* [Bericht](https://z-cert.nl/actueel/nieuws/ransomware-aanval-update) van 13 augustus 
+* [Bericht](https://z-cert.nl/actueel/nieuws/update-datalek-clinical-diagnostics) van 18 augustus 
 
 ## Nieuwsartikelen
 * Data [half miljoen vrouwen](https://www.rtl.nl/nieuws/binnenland/artikel/5522737/bevolkingsonderzoek-baarmoederhalskanker-data-gehackt-vrouwen) gehackt bij bevolkingsonderzoek baarmoederhalskanker - RTL Nieuws (11 aug)
