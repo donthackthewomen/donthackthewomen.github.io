@@ -18,7 +18,14 @@ Ik ben (meerdere opties mogelijk):
 Wij proberen met onze actiegroep zoveel mogelijk praktisch en begrijpelijk expert-advies te geven. 
 
 * [Algemeen advies](https://www.autoriteitpersoonsgegevens.nl/themas/beveiliging/datalekken/slachtoffer-van-een-datalek-dit-kunt-u-doen) voor gedupeerden van Autoriteit Persoonsgegevens
+* Advies over [phishing](https://www.rijksoverheid.nl/onderwerpen/cybercrime-en-cybersecurity/vraag-en-antwoord/phishing) van de Rijksoverheid
 * [LinkedIn groep](https://lnkd.in/e4PvZjy6) voor gedupeerden
+
+## Officiele berichtgeving
+* [Nieuwsbericht](https://www.bevolkingsonderzoeknederland.nl/nieuws/datalek-met-ruim-485000-deelnemers-bevolkingsonderzoek-baarmoederhalskanker-na-hack-bij-extern-laboratorium/) over het datalek - Bevolkingsonderzoek Nederland (11 aug) 
+* [Nieuwsbericht](https://www.bevolkingsonderzoeknederland.nl/nieuws/ruim-405000-deelnemers-bevolkingsonderzoek-baarmoederhalskanker-ontvangen-brief-na-datalek/) over brief naa aanleiding van het datalek - Bevolkingsonderzoek Nederland (19 aug)
+* [Veelgestelde vragen](https://www.bevolkingsonderzoeknederland.nl/baarmoederhalskanker/veelgestelde-vragen-datalek/) over het datalek - Bevolkingsonderzoek Nederland
+* [Berichten](https://clinicaldiagnostics.nl/nl/belangrijk-bericht-over-gegevens-van-patienten-en-zorgverleners/) van Clinical Diagnostics
 
 ## Nieuwsartikelen
 * Data [half miljoen vrouwen](https://www.rtl.nl/nieuws/binnenland/artikel/5522737/bevolkingsonderzoek-baarmoederhalskanker-data-gehackt-vrouwen) gehackt bij bevolkingsonderzoek baarmoederhalskanker - RTL Nieuws (11 aug)
