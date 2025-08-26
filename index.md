@@ -79,6 +79,7 @@ Nu.nl:
 
 ## Opinie-stukken
 * [Opiniestuk](https://www.linkedin.com/pulse/waarom-de-laboratoriumhack-zo-ernstig-en-ophef-fleur-van-leusden-bfj9e/) van Fleur van Leusden, CISO en podcaster "CISO Praat"
+* [Opiniestuk](opinie.md) All the Cyber Ladies ([bron](https://www.allthecyberladies.nl/medische-gegevens-zijn-geen-handelswaar/))
 
 ## Podcasts
 * Angry Nerds [262](https://www.youtube.com/live/kFramcF1mEU): Kutzooi
