@@ -61,7 +61,7 @@ RTL Nieuws:
 * Hackersgroep Nova [dreigt alsnog](https://www.rtl.nl/nieuws/binnenland/artikel/5523757/hackersgroep-nova-dreigt-alsnog-gestolen-data-van-laboratorium-te) gestolen data van laboratorium te publiceren (17 aug)
 * [Deze brief](https://www.rtl.nl/nieuws/binnenland/artikel/5524014/deze-brief-hebben-400000-vrouwen-op-de-mat-gekregen) hebben ruim 405.000 vrouwen op de mat gekregen na hack bevolkingsonderzoek (19 aug)
 * Let extra op bij elke app en mail die je krijgt: [dit moet je doen](https://www.rtl.nl/nieuws/binnenland/artikel/5524169/mijn-data-gelekt-wat-moet-ik-nu-doen) als je gegevens zijn gelekt (20 aug)
-* [Minister en kamerlid](https://www.rtl.nl/nieuws/binnenland/artikel/5522904/ministers-kamerleden-datalek-laboratorium-hack-woonadres-bsn) in datalek laboratorium: adres, bsn en medisch onderzoek op straat - RTL Nieuws (22 aug)
+* [Minister en Kamerlid](https://www.rtl.nl/nieuws/binnenland/artikel/5522904/ministers-kamerleden-datalek-laboratorium-hack-woonadres-bsn) in datalek laboratorium: adres, bsn en medisch onderzoek op straat - RTL Nieuws (22 aug)
 * [Hackers beloven](https://www.rtl.nl/nieuws/binnenland/artikel/5524548/nova-hackers-gestolen-data-niet-publiceren-dark-web-alles) niets te publiceren - RTL Nieuws (22 aug, 14:00)
 * [Inspectie onderzoekt laboratorium](https://www.rtl.nl/nieuws/binnenland/artikel/5524530/hacken-persoonsgegevens-baarmoederhalskanker-bevolkingsonderzoek) Clinical Diagnostics na datadiefstal bevolkingsonderzoek (22 aug)
 * [Twee massaclaims](https://www.rtl.nl/nieuws/binnenland/artikel/5525096/advocatenkantoren-massaclaim-slachtoffers-datalek) in de maak voor slachtoffers datalek, al duizenden aanmeldingen (26 aug)
@@ -83,7 +83,7 @@ Nu.nl:
 * [Inspectie doet onderzoek](https://www.nu.nl/binnenland/6366448/inspectie-doet-onderzoek-naar-laboratorium-na-datahack-bevolkingsonderzoek.html) naar laboratorium na datahack bevolkingsonderzoek (22 aug)
 * [Gebruik burgerservicenummer](https://www.nu.nl/tech/6366483/gebruik-burgerservicenummer-onder-de-loep-na-hack-kroonjuweel-van-identiteit.html) onder de loep na hack: 'Kroonjuweel van identiteit' (25 aug)
 * Aanmeldingen voor [massaclaim](https://www.nu.nl/binnenland/6366921/aanmeldingen-voor-massaclaim-na-lek-bij-bevolkingsonderzoek-stromen-binnen.html) na lek bij bevolkingsonderzoek stromen binnen (26 aug)
-* OM neemt datalek bij het labd dat bevolkingsonderszoek uitvoerde [onder de loep](https://www.nu.nl/tech/6367006/om-neemt-datalek-bij-lab-dat-bevolkingsonderzoek-uitvoerde-onder-de-loep.html) (27 aug)
+* OM neemt datalek bij het lab dat bevolkingsonderszoek uitvoerde [onder de loep](https://www.nu.nl/tech/6367006/om-neemt-datalek-bij-lab-dat-bevolkingsonderzoek-uitvoerde-onder-de-loep.html) (27 aug)
 * Al bijna 70.000 aanmeldingen voor [massaclaim](https://www.nu.nl/binnenland/6366955/al-bijna-70000-aanmeldingen-voor-massaclaim-na-lek-bij-bevolkingsonderzoek.html) na lek bij bevolkingsonderzoek (27 aug)
 * (Nu+) Nu al [massaclaims](https://www.nu.nl/binnenland/6366983/nu-al-massaclaims-rond-hack-bevolkingsonderzoek-te-vroeg-of-terecht.html) rond hack bevolkingsonderzoek (27 aug) 
 
@@ -95,12 +95,10 @@ Nu.nl:
 * Angry Nerds [262](https://www.youtube.com/live/kFramcF1mEU): Kutzooi
 
 ## Algemene adviezen digitale veiligheid
-Voor iedereen geldt dat digitale veiligheid belangrijk is om jezelf te beschermen tegen aanvallen zoals identiteits-fraude, afpersing en andere risico's. Op de volgende websites kun je goede adviezen vinden om je digitale veiligheid te versterken
+Voor iedereen geldt dat digitale veiligheid belangrijk is om jezelf te beschermen tegen aanvallen zoals identiteitsfraude, afpersing en andere risico's. Op de volgende websites kun je goede adviezen vinden om je digitale veiligheid te versterken.
 
 * [Algemeen advies](https://www.autoriteitpersoonsgegevens.nl/themas/beveiliging/datalekken/slachtoffer-van-een-datalek-dit-kunt-u-doen) voor gedupeerden van Autoriteit Persoonsgegevens
 * [Consumentenbond](https://www.consumentenbond.nl/veilig-internetten/datalekken-de-gevaren-en-wat-moet-je-doen)
 * [Laat je niet Hack maken](https://laatjeniethackmaken.nl/)
 * [Metro](https://www.metronieuws.nl/lifestyle/tech/2024/11/gegevens-data-datalek/) advies bij datalekken
 * [Digital Trust Center](https://www.digitaltrustcenter.nl/informatie-advies/datalek)
-
-
