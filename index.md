@@ -76,6 +76,7 @@ Nu.nl:
 * Kritiek op summiere brief na medische hack: ['Standaard pr-briefje'](https://www.nu.nl/binnenland/6366248/kritiek-op-summiere-brief-na-medische-hack-standaard-pr-briefje.html) (21 aug)
 * Hackers bevolkingsonderzoek beweren gestolen [data te hebben gewist](https://www.nu.nl/tech/6366470/hackers-bevolkingsonderzoek-beweren-gestolen-data-te-hebben-gewist.html) (22 aug)
 * [Gebruik burgerservicenummer](https://www.nu.nl/tech/6366483/gebruik-burgerservicenummer-onder-de-loep-na-hack-kroonjuweel-van-identiteit.html) onder de loep na hack: 'Kroonjuweel van identiteit' (25 aug)
+* OM neemt datalek bij het labd dat bevolkingsonderszoek uitvoerde [onder de loep](https://www.nu.nl/tech/6367006/om-neemt-datalek-bij-lab-dat-bevolkingsonderzoek-uitvoerde-onder-de-loep.html) (27 aug)
 
 ## Opinie-stukken
 * [Opiniestuk](https://www.linkedin.com/pulse/waarom-de-laboratoriumhack-zo-ernstig-en-ophef-fleur-van-leusden-bfj9e/) van Fleur van Leusden, CISO en podcaster "CISO Praat"
