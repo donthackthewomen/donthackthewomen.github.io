@@ -1,3 +1,7 @@
+---
+layout: page
+title: Opinie
+---
 # De Digitale Dolle Mina’s
 
 Wij zijn de Digitale Dolle Mina’s: vrouwen die dagelijks werken in informatiebeveiliging en cybersecurity, in het bedrijfsleven, de overheid, als ondernemer, nonprofits en de politiek. Tegelijkertijd zijn wij óók dochters, moeders, zussen en vriendinnen die, net als iedereen, erop vertrouwen dat anderen zorgvuldig omgaan met onze data. Het datalek bij Clinical Diagnostics raakt ons niet alleen professioneel, maar ook persoonlijk. In dit opiniestuk gaan we vooral in op de gevolgen voor de honderdduizenden vrouwen, maar we zijn ons ervan bewust dat bij deze hack ook gegevens van kleine groep mannen zijn buitgemaakt. 
