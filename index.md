@@ -52,17 +52,35 @@ Z-Cert:
 * [Bericht](https://z-cert.nl/actueel/nieuws/update-datalek-clinical-diagnostics) van 18 augustus 
 
 ## Nieuwsartikelen
+
+RTL Nieuws:
 * Data [half miljoen vrouwen](https://www.rtl.nl/nieuws/binnenland/artikel/5522737/bevolkingsonderzoek-baarmoederhalskanker-data-gehackt-vrouwen) gehackt bij bevolkingsonderzoek baarmoederhalskanker - RTL Nieuws (11 aug)
 * Datalek bevolkingsonderzoek is [nog groter](https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine) dan gedacht - RTL Nieuws (11 aug)
-* Datalek bevolkingsonderzoek is [nog groter](https://www.metronieuws.nl/in-het-nieuws/binnenland/2025/08/datalek-bevolkingsonderzoek-baarmoederhalskanker/) dan gedacht - Metro (12 aug, 08:55)
+* [Deze brief](https://www.rtl.nl/nieuws/binnenland/artikel/5524014/deze-brief-hebben-400000-vrouwen-op-de-mat-gekregen) hebben ruim 405.000 vrouwen op de mat gekregen na hack bevolkingsonderzoek (19 aug)
 * [Minister en kamerlid](https://www.rtl.nl/nieuws/binnenland/artikel/5522904/ministers-kamerleden-datalek-laboratorium-hack-woonadres-bsn) in datalek laboratorium: adres, bsn en medisch onderzoek op straat - RTL Nieuws (22 aug)
-* Nova Hackers zetten [lab onder druk](https://www.metronieuws.nl/in-het-nieuws/binnenland/2025/08/hackers-bevolkingsonderzoek-medische-data-losgeld/) - Metro (18 aug 8:26)
-* [Metro](https://www.metronieuws.nl/in-het-nieuws/binnenland/2025/08/slachtoffers-bevolkingsonderzoek/) gedupeerde: "het voelt verschrikkelijk" (21 aug, 17:57)
-* Inspectie Gezondheidszorg en jeugd [start onderzoek](https://www.igj.nl/actueel/nieuws/2025/08/22/igj-start-onderzoek-naar-laboratorium-clinical-diagnostics-rijswijk) naar Clinical Diagnostics (22 aug, 10:30)
 * [Hackers beloven](https://www.rtl.nl/nieuws/binnenland/artikel/5524548/nova-hackers-gestolen-data-niet-publiceren-dark-web-alles) niets te publiceren - RTL Nieuws (22 aug, 14:00)
+* [Inspectie onderzoekt laboratorium](https://www.rtl.nl/nieuws/binnenland/artikel/5524530/hacken-persoonsgegevens-baarmoederhalskanker-bevolkingsonderzoek) Clinical Diagnostics na datadiefstal bevolkingsonderzoek (22 aug)
+
+Metro:
+* Datalek bevolkingsonderzoek is [nog groter](https://www.metronieuws.nl/in-het-nieuws/binnenland/2025/08/datalek-bevolkingsonderzoek-baarmoederhalskanker/) dan gedacht - Metro (12 aug)
+* Nova Hackers zetten [lab onder druk](https://www.metronieuws.nl/in-het-nieuws/binnenland/2025/08/hackers-bevolkingsonderzoek-medische-data-losgeld/) - Metro (18 aug)
+* [Metro](https://www.metronieuws.nl/in-het-nieuws/binnenland/2025/08/slachtoffers-bevolkingsonderzoek/) gedupeerde: "het voelt verschrikkelijk" (21 aug)
+* Inspectie Gezondheidszorg en jeugd [start onderzoek](https://www.igj.nl/actueel/nieuws/2025/08/22/igj-start-onderzoek-naar-laboratorium-clinical-diagnostics-rijswijk) naar Clinical Diagnostics (22 aug)
+
+Nu.nl:
+* Data van ruim [485.000 mensen gestolen](https://www.nu.nl/binnenland/6365307/data-van-ruim-485000-mensen-gestolen-na-onderzoek-baarmoederhalskanker.html) na onderzoek baarmoederhalskanker (11 aug)
+* Wat willen hackers met data bevolkingsonderzoek? ['Mogelijk verkopen'](https://www.nu.nl/nujij/6365412/wat-willen-hackers-met-data-bevolkingsonderzoek-mogelijk-verkopen.html) (12 aug)
+* Gehackt laboratorium [betaalt losgeld](https://www.nu.nl/tech/6365504/gehackt-laboratorium-betaalt-losgeld-om-meer-schade-te-voorkomen.html) om meer schade te voorkomen (13 aug)
+* [Cybercriminelen dreigen](https://www.nu.nl/binnenland/6365936/cybercriminelen-dreigen-meer-gestolen-data-bevolkingsonderzoek-te-publiceren.html) meer gestolen data bevolkingsonderzoek te publiceren (17 aug)
+* ['Elke denkbare fraudevorm'](https://www.nu.nl/binnenland/6366246/elke-denkbare-fraudevorm-mogelijk-met-gestolen-gegevens-bevolkingsonderzoek.html) mogelijk met gestolen gegevens bevolkingsonderzoek (20 aug)
+* Kritiek op summiere brief na medische hack: ['Standaard pr-briefje'](https://www.nu.nl/binnenland/6366248/kritiek-op-summiere-brief-na-medische-hack-standaard-pr-briefje.html) (21 aug)
+* Hackers bevolkingsonderzoek beweren gestolen [data te hebben gewist](https://www.nu.nl/tech/6366470/hackers-bevolkingsonderzoek-beweren-gestolen-data-te-hebben-gewist.html) (22 aug)
+* [Gebruik burgerservicenummer](https://www.nu.nl/tech/6366483/gebruik-burgerservicenummer-onder-de-loep-na-hack-kroonjuweel-van-identiteit.html) onder de loep na hack: 'Kroonjuweel van identiteit' (25 aug)
+* OM neemt datalek bij het labd dat bevolkingsonderszoek uitvoerde [onder de loep](https://www.nu.nl/tech/6367006/om-neemt-datalek-bij-lab-dat-bevolkingsonderzoek-uitvoerde-onder-de-loep.html) (27 aug)
 
 ## Opinie-stukken
 * [Opiniestuk](https://www.linkedin.com/pulse/waarom-de-laboratoriumhack-zo-ernstig-en-ophef-fleur-van-leusden-bfj9e/) van Fleur van Leusden, CISO en podcaster "CISO Praat"
+* [Opiniestuk](opinie.md) All the Cyber Ladies ([bron](https://www.allthecyberladies.nl/medische-gegevens-zijn-geen-handelswaar/))
 
 ## Podcasts
 * Angry Nerds [262](https://www.youtube.com/live/kFramcF1mEU): Kutzooi

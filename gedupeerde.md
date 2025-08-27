@@ -1,3 +1,7 @@
+---
+layout: page
+title: Gedupeerde
+---
 ## Gedupeerd
 
 Denk je dat je slachtoffer bent van identiteitsfraude, neem dan contact op met [CMI](https://www.rijksoverheid.nl/contact/contactgids/centraal-meldpunt-identiteitsfraude-cmi), het Centraal Meldpunt Identiteitsfraude.
