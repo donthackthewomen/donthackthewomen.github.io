@@ -19,11 +19,11 @@ Baas in eigen data!
 
 Ik ben (meerdere opties mogelijk):
 * [gedupeerde](gedupeerde.md) van de hack: als je een brief hebt ontvangen of je denkt dat jouw gegevens in de datalek zitten, kijk dan op [deze pagina](gedupeerde.md)
-* [bezorgd](bezorgd.md): als je bezorgd bent over jouw data, omdat je als binnen een kwetsbare groep zit, kijk dan op [deze pagina](bezorgd.md)
-* [man](man.md) en niet zo bang: Mooi, geniet ervan. Maar kijk ook zeker even op [deze pagina](man.md)
+<!-- * [bezorgd](bezorgd.md): als je bezorgd bent over jouw data, omdat je als binnen een kwetsbare groep zit, kijk dan op [deze pagina](bezorgd.md) -->
+<!-- * [man](man.md) en niet zo bang: Mooi, geniet ervan. Maar kijk ook zeker even op [deze pagina](man.md) -->
 * [bedrijf](bedrijf.md) en wil weten wat ik kan doen om mijn bedrijf te beveiligen. Op deze pagina's vind je adviezen voor:
-  * [afnemers](afnemers.md) van digitale diensten
-  * [aanbieders](aanbieders.md) van digitale diensten
+  <!-- * [afnemers](afnemers.md) van digitale diensten -->
+  <!-- * [aanbieders](aanbieders.md) van digitale diensten -->
 * [overheid](overheid.md) en wil weten hoe de politiek kan helpen bij het voorkomen van dit soort datalekken
 
 
