@@ -56,10 +56,15 @@ Z-Cert:
 RTL Nieuws:
 * Data [half miljoen vrouwen](https://www.rtl.nl/nieuws/binnenland/artikel/5522737/bevolkingsonderzoek-baarmoederhalskanker-data-gehackt-vrouwen) gehackt bij bevolkingsonderzoek baarmoederhalskanker - RTL Nieuws (11 aug)
 * Datalek bevolkingsonderzoek is [nog groter](https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine) dan gedacht - RTL Nieuws (11 aug)
+* Gehackt laboratorium heeft [losgeld betaald](https://www.rtl.nl/nieuws/binnenland/artikel/5523036/hack-laboratorium-cybercriminelen-ransomware-losgeld-betaald-data): 'Miljoenen euro's geëist' (13 aug)
+* Ook adressen van bewoners [blijf-van-mijn-lijfhuizen gelekt](https://www.rtl.nl/nieuws/binnenland/artikel/5523135/datalek-laboratorium-blijf-van-mijn-lijf-huis-medische-gegevens) bij hack laboratorium (14 aug)
+* Hackersgroep Nova [dreigt alsnog](https://www.rtl.nl/nieuws/binnenland/artikel/5523757/hackersgroep-nova-dreigt-alsnog-gestolen-data-van-laboratorium-te) gestolen data van laboratorium te publiceren (17 aug)
 * [Deze brief](https://www.rtl.nl/nieuws/binnenland/artikel/5524014/deze-brief-hebben-400000-vrouwen-op-de-mat-gekregen) hebben ruim 405.000 vrouwen op de mat gekregen na hack bevolkingsonderzoek (19 aug)
+* Let extra op bij elke app en mail die je krijgt: [dit moet je doen](https://www.rtl.nl/nieuws/binnenland/artikel/5524169/mijn-data-gelekt-wat-moet-ik-nu-doen) als je gegevens zijn gelekt (20 aug)
 * [Minister en kamerlid](https://www.rtl.nl/nieuws/binnenland/artikel/5522904/ministers-kamerleden-datalek-laboratorium-hack-woonadres-bsn) in datalek laboratorium: adres, bsn en medisch onderzoek op straat - RTL Nieuws (22 aug)
 * [Hackers beloven](https://www.rtl.nl/nieuws/binnenland/artikel/5524548/nova-hackers-gestolen-data-niet-publiceren-dark-web-alles) niets te publiceren - RTL Nieuws (22 aug, 14:00)
 * [Inspectie onderzoekt laboratorium](https://www.rtl.nl/nieuws/binnenland/artikel/5524530/hacken-persoonsgegevens-baarmoederhalskanker-bevolkingsonderzoek) Clinical Diagnostics na datadiefstal bevolkingsonderzoek (22 aug)
+* [Twee massaclaims](https://www.rtl.nl/nieuws/binnenland/artikel/5525096/advocatenkantoren-massaclaim-slachtoffers-datalek) in de maak voor slachtoffers datalek, al duizenden aanmeldingen (26 aug)
 
 Metro:
 * Datalek bevolkingsonderzoek is [nog groter](https://www.metronieuws.nl/in-het-nieuws/binnenland/2025/08/datalek-bevolkingsonderzoek-baarmoederhalskanker/) dan gedacht - Metro (12 aug)
@@ -75,8 +80,12 @@ Nu.nl:
 * ['Elke denkbare fraudevorm'](https://www.nu.nl/binnenland/6366246/elke-denkbare-fraudevorm-mogelijk-met-gestolen-gegevens-bevolkingsonderzoek.html) mogelijk met gestolen gegevens bevolkingsonderzoek (20 aug)
 * Kritiek op summiere brief na medische hack: ['Standaard pr-briefje'](https://www.nu.nl/binnenland/6366248/kritiek-op-summiere-brief-na-medische-hack-standaard-pr-briefje.html) (21 aug)
 * Hackers bevolkingsonderzoek beweren gestolen [data te hebben gewist](https://www.nu.nl/tech/6366470/hackers-bevolkingsonderzoek-beweren-gestolen-data-te-hebben-gewist.html) (22 aug)
+* [Inspectie doet onderzoek](https://www.nu.nl/binnenland/6366448/inspectie-doet-onderzoek-naar-laboratorium-na-datahack-bevolkingsonderzoek.html) naar laboratorium na datahack bevolkingsonderzoek (22 aug)
 * [Gebruik burgerservicenummer](https://www.nu.nl/tech/6366483/gebruik-burgerservicenummer-onder-de-loep-na-hack-kroonjuweel-van-identiteit.html) onder de loep na hack: 'Kroonjuweel van identiteit' (25 aug)
+* Aanmeldingen voor [massaclaim](https://www.nu.nl/binnenland/6366921/aanmeldingen-voor-massaclaim-na-lek-bij-bevolkingsonderzoek-stromen-binnen.html) na lek bij bevolkingsonderzoek stromen binnen (26 aug)
 * OM neemt datalek bij het labd dat bevolkingsonderszoek uitvoerde [onder de loep](https://www.nu.nl/tech/6367006/om-neemt-datalek-bij-lab-dat-bevolkingsonderzoek-uitvoerde-onder-de-loep.html) (27 aug)
+* Al bijna 70.000 aanmeldingen voor [massaclaim](https://www.nu.nl/binnenland/6366955/al-bijna-70000-aanmeldingen-voor-massaclaim-na-lek-bij-bevolkingsonderzoek.html) na lek bij bevolkingsonderzoek (27 aug)
+* (Nu+) Nu al [massaclaims](https://www.nu.nl/binnenland/6366983/nu-al-massaclaims-rond-hack-bevolkingsonderzoek-te-vroeg-of-terecht.html) rond hack bevolkingsonderzoek (27 aug) 
 
 ## Opinie-stukken
 * [Opiniestuk](https://www.linkedin.com/pulse/waarom-de-laboratoriumhack-zo-ernstig-en-ophef-fleur-van-leusden-bfj9e/) van Fleur van Leusden, CISO en podcaster "CISO Praat"
