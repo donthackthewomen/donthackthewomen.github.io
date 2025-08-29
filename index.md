@@ -30,26 +30,26 @@ Ik ben (meerdere opties mogelijk):
 ## Eerste hulp initiatieven
 Wij proberen met onze actiegroep zoveel mogelijk praktisch en begrijpelijk expert-advies te geven. 
 
-* [Algemeen advies](https://www.autoriteitpersoonsgegevens.nl/themas/beveiliging/datalekken/slachtoffer-van-een-datalek-dit-kunt-u-doen) voor gedupeerden van Autoriteit Persoonsgegevens
-* Advies over [phishing](https://www.rijksoverheid.nl/onderwerpen/cybercrime-en-cybersecurity/vraag-en-antwoord/phishing) van de Rijksoverheid
-* [LinkedIn groep](https://lnkd.in/e4PvZjy6) voor gedupeerden
+* [Algemeen advies](https://www.autoriteitpersoonsgegevens.nl/themas/beveiliging/datalekken/slachtoffer-van-een-datalek-dit-kunt-u-doen){:target="_blank"} voor gedupeerden van Autoriteit Persoonsgegevens
+* Advies over [phishing](https://www.rijksoverheid.nl/onderwerpen/cybercrime-en-cybersecurity/vraag-en-antwoord/phishing){:target="_blank"} van de Rijksoverheid
+* [LinkedIn groep](https://lnkd.in/e4PvZjy6){:target="_blank"} voor gedupeerden
 
-## Officiele berichtgeving
+## Officiële berichtgeving
 Bevolkingsonderzoek Nederland:
-* [Nieuwsbericht](https://www.bevolkingsonderzoeknederland.nl/nieuws/datalek-met-ruim-485000-deelnemers-bevolkingsonderzoek-baarmoederhalskanker-na-hack-bij-extern-laboratorium/) over het datalek (11 aug) 
-* [Nieuwsbericht](https://www.bevolkingsonderzoeknederland.nl/nieuws/ruim-405000-deelnemers-bevolkingsonderzoek-baarmoederhalskanker-ontvangen-brief-na-datalek/) over brief naar aanleiding van het datalek (19 aug)
-* [Brieftekst](https://www.bevolkingsonderzoeknederland.nl/media/nqkh2hr1/20250811_conceptbrief-cli%C3%ABnten-incident-bmhk_def.pdf) 
-* [Veelgestelde vragen](https://www.bevolkingsonderzoeknederland.nl/baarmoederhalskanker/veelgestelde-vragen-datalek/) over het datalek
+* [Nieuwsbericht](https://www.bevolkingsonderzoeknederland.nl/nieuws/datalek-met-ruim-485000-deelnemers-bevolkingsonderzoek-baarmoederhalskanker-na-hack-bij-extern-laboratorium/){:target="_blank"} over het datalek (11 aug) 
+* [Nieuwsbericht](https://www.bevolkingsonderzoeknederland.nl/nieuws/ruim-405000-deelnemers-bevolkingsonderzoek-baarmoederhalskanker-ontvangen-brief-na-datalek/){:target="_blank"} over brief naar aanleiding van het datalek (19 aug)
+* [Brieftekst](https://www.bevolkingsonderzoeknederland.nl/media/nqkh2hr1/20250811_conceptbrief-cli%C3%ABnten-incident-bmhk_def.pdf){:target="_blank"} 
+* [Veelgestelde vragen](https://www.bevolkingsonderzoeknederland.nl/baarmoederhalskanker/veelgestelde-vragen-datalek/){:target="_blank"} over het datalek
 
 Clinical Diagnostics: 
-* [Start](https://clinicaldiagnostics.nl/nl/belangrijk-bericht-over-gegevens-van-patienten-en-zorgverleners/) bericht van Clinical Diagnostics
-* [Bericht](https://clinicaldiagnostics.nl/nl/onderzoek-via-bevolkingsonderzoek-nederland/) over onderzoeken via Bevolkingsonderzoek Nederland
-* [Bericht](https://clinicaldiagnostics.nl/nl/onderzoek-via-andere-zorgverlener/) over onderzoeken via een andere zorgaanbieder
+* [Start](https://clinicaldiagnostics.nl/nl/belangrijk-bericht-over-gegevens-van-patienten-en-zorgverleners/){:target="_blank"} bericht van Clinical Diagnostics
+* [Bericht](https://clinicaldiagnostics.nl/nl/onderzoek-via-bevolkingsonderzoek-nederland/){:target="_blank"} over onderzoeken via Bevolkingsonderzoek Nederland
+* [Bericht](https://clinicaldiagnostics.nl/nl/onderzoek-via-andere-zorgverlener/){:target="_blank"} over onderzoeken via een andere zorgaanbieder
 
 Z-Cert:
-* [Bericht](https://z-cert.nl/actueel/nieuws/ransomware-aanval) van 11 augustus 
-* [Bericht](https://z-cert.nl/actueel/nieuws/ransomware-aanval-update) van 13 augustus 
-* [Bericht](https://z-cert.nl/actueel/nieuws/update-datalek-clinical-diagnostics) van 18 augustus 
+* [Bericht](https://z-cert.nl/actueel/nieuws/ransomware-aanval){:target="_blank"} van 11 augustus 
+* [Bericht](https://z-cert.nl/actueel/nieuws/ransomware-aanval-update){:target="_blank"} van 13 augustus 
+* [Bericht](https://z-cert.nl/actueel/nieuws/update-datalek-clinical-diagnostics){:target="_blank"} van 18 augustus 
 
 ## Nieuwsartikelen
 
@@ -70,52 +70,52 @@ NOS:
 * Datalek bevolkingsonderzoek blijkt nog groter: zeker [700.000 vrouwen getroffen](https://nos.nl/artikel/2580325-datalek-bevolkingsonderzoek-blijkt-nog-groter-zeker-700-000-vrouwen-getroffen){:target="_blank"} (29 aug)
 
 RTL Nieuws:
-* Data [half miljoen vrouwen](https://www.rtl.nl/nieuws/binnenland/artikel/5522737/bevolkingsonderzoek-baarmoederhalskanker-data-gehackt-vrouwen) gehackt bij bevolkingsonderzoek baarmoederhalskanker - RTL Nieuws (11 aug)
-* Datalek bevolkingsonderzoek is [nog groter](https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine) dan gedacht - RTL Nieuws (11 aug)
-* Gehackt laboratorium heeft [losgeld betaald](https://www.rtl.nl/nieuws/binnenland/artikel/5523036/hack-laboratorium-cybercriminelen-ransomware-losgeld-betaald-data): 'Miljoenen euro's geëist' (13 aug)
-* Ook adressen van bewoners [blijf-van-mijn-lijfhuizen gelekt](https://www.rtl.nl/nieuws/binnenland/artikel/5523135/datalek-laboratorium-blijf-van-mijn-lijf-huis-medische-gegevens) bij hack laboratorium (14 aug)
-* Hackersgroep Nova [dreigt alsnog](https://www.rtl.nl/nieuws/binnenland/artikel/5523757/hackersgroep-nova-dreigt-alsnog-gestolen-data-van-laboratorium-te) gestolen data van laboratorium te publiceren (17 aug)
-* [Deze brief](https://www.rtl.nl/nieuws/binnenland/artikel/5524014/deze-brief-hebben-400000-vrouwen-op-de-mat-gekregen) hebben ruim 405.000 vrouwen op de mat gekregen na hack bevolkingsonderzoek (19 aug)
-* Let extra op bij elke app en mail die je krijgt: [dit moet je doen](https://www.rtl.nl/nieuws/binnenland/artikel/5524169/mijn-data-gelekt-wat-moet-ik-nu-doen) als je gegevens zijn gelekt (20 aug)
-* [Minister en Kamerlid](https://www.rtl.nl/nieuws/binnenland/artikel/5522904/ministers-kamerleden-datalek-laboratorium-hack-woonadres-bsn) in datalek laboratorium: adres, bsn en medisch onderzoek op straat - RTL Nieuws (22 aug)
-* [Hackers beloven](https://www.rtl.nl/nieuws/binnenland/artikel/5524548/nova-hackers-gestolen-data-niet-publiceren-dark-web-alles) niets te publiceren - RTL Nieuws (22 aug, 14:00)
-* [Inspectie onderzoekt laboratorium](https://www.rtl.nl/nieuws/binnenland/artikel/5524530/hacken-persoonsgegevens-baarmoederhalskanker-bevolkingsonderzoek) Clinical Diagnostics na datadiefstal bevolkingsonderzoek (22 aug)
-* [Twee massaclaims](https://www.rtl.nl/nieuws/binnenland/artikel/5525096/advocatenkantoren-massaclaim-slachtoffers-datalek) in de maak voor slachtoffers datalek, al duizenden aanmeldingen (26 aug)
+* Data [half miljoen vrouwen](https://www.rtl.nl/nieuws/binnenland/artikel/5522737/bevolkingsonderzoek-baarmoederhalskanker-data-gehackt-vrouwen){:target="_blank"} gehackt bij bevolkingsonderzoek baarmoederhalskanker - RTL Nieuws (11 aug)
+* Datalek bevolkingsonderzoek is [nog groter](https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine){:target="_blank"} dan gedacht - RTL Nieuws (11 aug)
+* Gehackt laboratorium heeft [losgeld betaald](https://www.rtl.nl/nieuws/binnenland/artikel/5523036/hack-laboratorium-cybercriminelen-ransomware-losgeld-betaald-data){:target="_blank"}: 'Miljoenen euro's geëist' (13 aug)
+* Ook adressen van bewoners [blijf-van-mijn-lijfhuizen gelekt](https://www.rtl.nl/nieuws/binnenland/artikel/5523135/datalek-laboratorium-blijf-van-mijn-lijf-huis-medische-gegevens){:target="_blank"} bij hack laboratorium (14 aug)
+* Hackersgroep Nova [dreigt alsnog](https://www.rtl.nl/nieuws/binnenland/artikel/5523757/hackersgroep-nova-dreigt-alsnog-gestolen-data-van-laboratorium-te){:target="_blank"} gestolen data van laboratorium te publiceren (17 aug)
+* [Deze brief](https://www.rtl.nl/nieuws/binnenland/artikel/5524014/deze-brief-hebben-400000-vrouwen-op-de-mat-gekregen){:target="_blank"} hebben ruim 405.000 vrouwen op de mat gekregen na hack bevolkingsonderzoek (19 aug)
+* Let extra op bij elke app en mail die je krijgt: [dit moet je doen](https://www.rtl.nl/nieuws/binnenland/artikel/5524169/mijn-data-gelekt-wat-moet-ik-nu-doen){:target="_blank"} als je gegevens zijn gelekt (20 aug)
+* [Minister en Kamerlid](https://www.rtl.nl/nieuws/binnenland/artikel/5522904/ministers-kamerleden-datalek-laboratorium-hack-woonadres-bsn){:target="_blank"} in datalek laboratorium: adres, bsn en medisch onderzoek op straat - RTL Nieuws (22 aug)
+* [Hackers beloven](https://www.rtl.nl/nieuws/binnenland/artikel/5524548/nova-hackers-gestolen-data-niet-publiceren-dark-web-alles){:target="_blank"} niets te publiceren - RTL Nieuws (22 aug, 14:00)
+* [Inspectie onderzoekt laboratorium](https://www.rtl.nl/nieuws/binnenland/artikel/5524530/hacken-persoonsgegevens-baarmoederhalskanker-bevolkingsonderzoek){:target="_blank"} Clinical Diagnostics na datadiefstal bevolkingsonderzoek (22 aug)
+* [Twee massaclaims](https://www.rtl.nl/nieuws/binnenland/artikel/5525096/advocatenkantoren-massaclaim-slachtoffers-datalek){:target="_blank"} in de maak voor slachtoffers datalek, al duizenden aanmeldingen (26 aug)
 
 Metro:
-* Datalek bevolkingsonderzoek is [nog groter](https://www.metronieuws.nl/in-het-nieuws/binnenland/2025/08/datalek-bevolkingsonderzoek-baarmoederhalskanker/) dan gedacht - Metro (12 aug)
-* Nova Hackers zetten [lab onder druk](https://www.metronieuws.nl/in-het-nieuws/binnenland/2025/08/hackers-bevolkingsonderzoek-medische-data-losgeld/) - Metro (18 aug)
-* [Metro](https://www.metronieuws.nl/in-het-nieuws/binnenland/2025/08/slachtoffers-bevolkingsonderzoek/) gedupeerde: "het voelt verschrikkelijk" (21 aug)
-* Inspectie Gezondheidszorg en jeugd [start onderzoek](https://www.igj.nl/actueel/nieuws/2025/08/22/igj-start-onderzoek-naar-laboratorium-clinical-diagnostics-rijswijk) naar Clinical Diagnostics (22 aug)
+* Datalek bevolkingsonderzoek is [nog groter](https://www.metronieuws.nl/in-het-nieuws/binnenland/2025/08/datalek-bevolkingsonderzoek-baarmoederhalskanker/){:target="_blank"} dan gedacht - Metro (12 aug)
+* Nova Hackers zetten [lab onder druk](https://www.metronieuws.nl/in-het-nieuws/binnenland/2025/08/hackers-bevolkingsonderzoek-medische-data-losgeld/){:target="_blank"} - Metro (18 aug)
+* [Metro](https://www.metronieuws.nl/in-het-nieuws/binnenland/2025/08/slachtoffers-bevolkingsonderzoek/){:target="_blank"} gedupeerde: "het voelt verschrikkelijk" (21 aug)
+* Inspectie Gezondheidszorg en jeugd [start onderzoek](https://www.igj.nl/actueel/nieuws/2025/08/22/igj-start-onderzoek-naar-laboratorium-clinical-diagnostics-rijswijk){:target="_blank"} naar Clinical Diagnostics (22 aug)
 
 Nu.nl:
-* Data van ruim [485.000 mensen gestolen](https://www.nu.nl/binnenland/6365307/data-van-ruim-485000-mensen-gestolen-na-onderzoek-baarmoederhalskanker.html) na onderzoek baarmoederhalskanker (11 aug)
-* Wat willen hackers met data bevolkingsonderzoek? ['Mogelijk verkopen'](https://www.nu.nl/nujij/6365412/wat-willen-hackers-met-data-bevolkingsonderzoek-mogelijk-verkopen.html) (12 aug)
-* Gehackt laboratorium [betaalt losgeld](https://www.nu.nl/tech/6365504/gehackt-laboratorium-betaalt-losgeld-om-meer-schade-te-voorkomen.html) om meer schade te voorkomen (13 aug)
-* [Cybercriminelen dreigen](https://www.nu.nl/binnenland/6365936/cybercriminelen-dreigen-meer-gestolen-data-bevolkingsonderzoek-te-publiceren.html) meer gestolen data bevolkingsonderzoek te publiceren (17 aug)
-* ['Elke denkbare fraudevorm'](https://www.nu.nl/binnenland/6366246/elke-denkbare-fraudevorm-mogelijk-met-gestolen-gegevens-bevolkingsonderzoek.html) mogelijk met gestolen gegevens bevolkingsonderzoek (20 aug)
-* Kritiek op summiere brief na medische hack: ['Standaard pr-briefje'](https://www.nu.nl/binnenland/6366248/kritiek-op-summiere-brief-na-medische-hack-standaard-pr-briefje.html) (21 aug)
-* Hackers bevolkingsonderzoek beweren gestolen [data te hebben gewist](https://www.nu.nl/tech/6366470/hackers-bevolkingsonderzoek-beweren-gestolen-data-te-hebben-gewist.html) (22 aug)
-* [Inspectie doet onderzoek](https://www.nu.nl/binnenland/6366448/inspectie-doet-onderzoek-naar-laboratorium-na-datahack-bevolkingsonderzoek.html) naar laboratorium na datahack bevolkingsonderzoek (22 aug)
-* [Gebruik burgerservicenummer](https://www.nu.nl/tech/6366483/gebruik-burgerservicenummer-onder-de-loep-na-hack-kroonjuweel-van-identiteit.html) onder de loep na hack: 'Kroonjuweel van identiteit' (25 aug)
-* Aanmeldingen voor [massaclaim](https://www.nu.nl/binnenland/6366921/aanmeldingen-voor-massaclaim-na-lek-bij-bevolkingsonderzoek-stromen-binnen.html) na lek bij bevolkingsonderzoek stromen binnen (26 aug)
-* OM neemt datalek bij het lab dat bevolkingsonderszoek uitvoerde [onder de loep](https://www.nu.nl/tech/6367006/om-neemt-datalek-bij-lab-dat-bevolkingsonderzoek-uitvoerde-onder-de-loep.html) (27 aug)
-* Al bijna 70.000 aanmeldingen voor [massaclaim](https://www.nu.nl/binnenland/6366955/al-bijna-70000-aanmeldingen-voor-massaclaim-na-lek-bij-bevolkingsonderzoek.html) na lek bij bevolkingsonderzoek (27 aug)
-* (Nu+) Nu al [massaclaims](https://www.nu.nl/binnenland/6366983/nu-al-massaclaims-rond-hack-bevolkingsonderzoek-te-vroeg-of-terecht.html) rond hack bevolkingsonderzoek (27 aug) 
+* Data van ruim [485.000 mensen gestolen](https://www.nu.nl/binnenland/6365307/data-van-ruim-485000-mensen-gestolen-na-onderzoek-baarmoederhalskanker.html){:target="_blank"} na onderzoek baarmoederhalskanker (11 aug)
+* Wat willen hackers met data bevolkingsonderzoek? ['Mogelijk verkopen'](https://www.nu.nl/nujij/6365412/wat-willen-hackers-met-data-bevolkingsonderzoek-mogelijk-verkopen.html){:target="_blank"} (12 aug)
+* Gehackt laboratorium [betaalt losgeld](https://www.nu.nl/tech/6365504/gehackt-laboratorium-betaalt-losgeld-om-meer-schade-te-voorkomen.html){:target="_blank"} om meer schade te voorkomen (13 aug)
+* [Cybercriminelen dreigen](https://www.nu.nl/binnenland/6365936/cybercriminelen-dreigen-meer-gestolen-data-bevolkingsonderzoek-te-publiceren.html){:target="_blank"} meer gestolen data bevolkingsonderzoek te publiceren (17 aug)
+* ['Elke denkbare fraudevorm'](https://www.nu.nl/binnenland/6366246/elke-denkbare-fraudevorm-mogelijk-met-gestolen-gegevens-bevolkingsonderzoek.html){:target="_blank"} mogelijk met gestolen gegevens bevolkingsonderzoek (20 aug)
+* Kritiek op summiere brief na medische hack: ['Standaard pr-briefje'](https://www.nu.nl/binnenland/6366248/kritiek-op-summiere-brief-na-medische-hack-standaard-pr-briefje.html){:target="_blank"} (21 aug)
+* Hackers bevolkingsonderzoek beweren gestolen [data te hebben gewist](https://www.nu.nl/tech/6366470/hackers-bevolkingsonderzoek-beweren-gestolen-data-te-hebben-gewist.html){:target="_blank"} (22 aug)
+* [Inspectie doet onderzoek](https://www.nu.nl/binnenland/6366448/inspectie-doet-onderzoek-naar-laboratorium-na-datahack-bevolkingsonderzoek.html){:target="_blank"} naar laboratorium na datahack bevolkingsonderzoek (22 aug)
+* [Gebruik burgerservicenummer](https://www.nu.nl/tech/6366483/gebruik-burgerservicenummer-onder-de-loep-na-hack-kroonjuweel-van-identiteit.html){:target="_blank"} onder de loep na hack: 'Kroonjuweel van identiteit' (25 aug)
+* Aanmeldingen voor [massaclaim](https://www.nu.nl/binnenland/6366921/aanmeldingen-voor-massaclaim-na-lek-bij-bevolkingsonderzoek-stromen-binnen.html){:target="_blank"} na lek bij bevolkingsonderzoek stromen binnen (26 aug)
+* OM neemt datalek bij het lab dat bevolkingsonderszoek uitvoerde [onder de loep](https://www.nu.nl/tech/6367006/om-neemt-datalek-bij-lab-dat-bevolkingsonderzoek-uitvoerde-onder-de-loep.html){:target="_blank"} (27 aug)
+* Al bijna 70.000 aanmeldingen voor [massaclaim](https://www.nu.nl/binnenland/6366955/al-bijna-70000-aanmeldingen-voor-massaclaim-na-lek-bij-bevolkingsonderzoek.html){:target="_blank"} na lek bij bevolkingsonderzoek (27 aug)
+* (Nu+) Nu al [massaclaims](https://www.nu.nl/binnenland/6366983/nu-al-massaclaims-rond-hack-bevolkingsonderzoek-te-vroeg-of-terecht.html){:target="_blank"} rond hack bevolkingsonderzoek (27 aug) 
 * Lek bevolkingsonderzoek groter dan gedacht: mogelijk data [alle 941.000 deelnemers](https://www.nu.nl/tech/6367189/lek-bevolkingsonderzoek-groter-dan-gedacht-mogelijk-data-alle-941000-deelnemers-gelekt.html){:target="_blank"} gelekt (29 aug)
 
 ## Opinie-stukken
-* [Opiniestuk](https://www.linkedin.com/pulse/waarom-de-laboratoriumhack-zo-ernstig-en-ophef-fleur-van-leusden-bfj9e/) van Fleur van Leusden, CISO en podcaster "CISO Praat"
-* [Opiniestuk](opinie.md) All the Cyber Ladies ([bron](https://www.allthecyberladies.nl/medische-gegevens-zijn-geen-handelswaar/))
+* [Opiniestuk](https://www.linkedin.com/pulse/waarom-de-laboratoriumhack-zo-ernstig-en-ophef-fleur-van-leusden-bfj9e/){:target="_blank"} van Fleur van Leusden, CISO en podcaster "CISO Praat"
+* [Opiniestuk](opinie.md) All the Cyber Ladies ([bron](https://www.allthecyberladies.nl/medische-gegevens-zijn-geen-handelswaar/){:target="_blank"})
 
 ## Podcasts
-* Angry Nerds [262](https://www.youtube.com/live/kFramcF1mEU): Kutzooi
+* Angry Nerds [262](https://www.youtube.com/live/kFramcF1mEU){:target="_blank"}: Kutzooi
 
 ## Algemene adviezen digitale veiligheid
 Voor iedereen geldt dat digitale veiligheid belangrijk is om jezelf te beschermen tegen aanvallen zoals identiteitsfraude, afpersing en andere risico's. Op de volgende websites kun je goede adviezen vinden om je digitale veiligheid te versterken.
 
-* [Algemeen advies](https://www.autoriteitpersoonsgegevens.nl/themas/beveiliging/datalekken/slachtoffer-van-een-datalek-dit-kunt-u-doen) voor gedupeerden van Autoriteit Persoonsgegevens
-* [Consumentenbond](https://www.consumentenbond.nl/veilig-internetten/datalekken-de-gevaren-en-wat-moet-je-doen)
-* [Laat je niet Hack maken](https://laatjeniethackmaken.nl/)
-* [Metro](https://www.metronieuws.nl/lifestyle/tech/2024/11/gegevens-data-datalek/) advies bij datalekken
-* [Digital Trust Center](https://www.digitaltrustcenter.nl/informatie-advies/datalek)
+* [Algemeen advies](https://www.autoriteitpersoonsgegevens.nl/themas/beveiliging/datalekken/slachtoffer-van-een-datalek-dit-kunt-u-doen){:target="_blank"} voor gedupeerden van Autoriteit Persoonsgegevens
+* [Consumentenbond](https://www.consumentenbond.nl/veilig-internetten/datalekken-de-gevaren-en-wat-moet-je-doen){:target="_blank"}
+* [Laat je niet Hack maken](https://laatjeniethackmaken.nl/){:target="_blank"}
+* [Metro](https://www.metronieuws.nl/lifestyle/tech/2024/11/gegevens-data-datalek/){:target="_blank"} advies bij datalekken
+* [Digital Trust Center](https://www.digitaltrustcenter.nl/informatie-advies/datalek){:target="_blank"}
