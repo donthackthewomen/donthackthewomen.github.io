@@ -53,6 +53,22 @@ Z-Cert:
 
 ## Nieuwsartikelen
 
+NOS:
+* [Gegevens honderdduizenden vrouwen gehackt](https://nos.nl/artikel/2578296-gegevens-honderdduizenden-vrouwen-gehackt-bij-bevolkingsonderzoek-baarmoederhalskanker){:target="_blank"} bij bevolkingsonderzoek baarmoederhalskanker (11 aug)
+* Datahack bij laboratorium [veel groter](https://nos.nl/artikel/2578338-datahack-bij-laboratorium-veel-groter-deel-gegevens-op-dark-web){:target="_blank"}, deel gegevens op dark web (11 aug)
+* Bevolkingsonderzoek Nederland: 'Schokkend dat datalek [pas na maand bekend](https://nos.nl/nieuwsuur/artikel/2578374-bevolkingsonderzoek-nederland-schokkend-dat-datalek-pas-na-maand-bekend-werd){:target="_blank"} werd' (12 aug)
+* 'Gehackt lab [betaalde losgeld](https://nos.nl/artikel/2578516-gehackt-lab-betaalde-losgeld-om-verdere-verspreiding-data-te-voorkomen){:target="_blank"} om verdere verspreiding data te voorkomen' (13 aug)
+* Minister roept op: [blijf meedoen](https://nos.nl/artikel/2578750-minister-roept-op-blijf-meedoen-aan-bevolkingsonderzoeken){:target="_blank"} aan bevolkingsonderzoeken (15 aug)
+* [Hackers dreigen](https://nos.nl/artikel/2579023-hackers-dreigen-medische-gegevens-nederlandse-vrouwen-alsnog-online-te-zetten){:target="_blank"} medische gegevens Nederlandse vrouwen alsnog online te zetten (17 aug)
+* [Hackers eisen bijna 1,1 miljoen](https://nos.nl/artikel/2579048-hackers-eisen-bijna-1-1-miljoen-euro-om-medische-gegevens-niet-te-lekken){:target="_blank"} euro om medische gegevens niet te lekken (18 aug)
+* [Vrouwen horen](https://nos.nl/artikel/2579200-vrouwen-horen-of-ze-slachtoffer-zijn-van-hack-je-weet-niet-wat-ze-gaan-doen){:target="_blank"} of ze slachtoffer zijn van hack: 'Je weet niet wat ze gaan doen' (19 aug)
+* [Inspectie onderzoekt](https://nos.nl/artikel/2579473-inspectie-onderzoekt-informatiebeveiliging-bij-gehackt-laboratorium){:target="_blank"} informatiebeveiliging bij gehackt laboratorium (22 aug)
+* Nova-groep [trekt dreigement in](https://nos.nl/artikel/2579501-nova-groep-trekt-dreigement-in-toch-geen-nieuwe-data-bevolkingsonderzoek-online){:target="_blank"}: toch geen nieuwe data bevolkingsonderzoek online (22 aug)
+* Bijna 3000 vrouwen melden zich voor [massaclaim](https://nos.nl/artikel/2580024-bijna-3000-vrouwen-melden-zich-voor-massaclaim-na-lek-bij-bevolkingsonderzoek){:target="_blank"} na lek bij bevolkingsonderzoek (26 aug)
+* [Strafrechtelijk onderzoek](https://nos.nl/artikel/2580125-strafrechtelijk-onderzoek-naar-datalek-bij-laboratorium-bevolkingsonderzoek){:target="_blank"} naar datalek bij laboratorium bevolkingsonderzoek (27 aug)
+* Bijna [70.000 aanmeldingen](https://nos.nl/artikel/2580080-bijna-70-000-aanmeldingen-voor-massaclaim-na-hack-bij-bevolkingsonderzoek){:target="_blank"} voor massaclaim na hack bij bevolkingsonderzoek
+* Datalek bevolkingsonderzoek blijkt nog groter: zeker [700.000 vrouwen getroffen](https://nos.nl/artikel/2580325-datalek-bevolkingsonderzoek-blijkt-nog-groter-zeker-700-000-vrouwen-getroffen){:target="_blank"} (29 aug)
+
 RTL Nieuws:
 * Data [half miljoen vrouwen](https://www.rtl.nl/nieuws/binnenland/artikel/5522737/bevolkingsonderzoek-baarmoederhalskanker-data-gehackt-vrouwen) gehackt bij bevolkingsonderzoek baarmoederhalskanker - RTL Nieuws (11 aug)
 * Datalek bevolkingsonderzoek is [nog groter](https://www.rtl.nl/nieuws/binnenland/artikel/5522760/datalek-baarmoederhalskanker-veel-groter-ook-onderzoek-huid-urine) dan gedacht - RTL Nieuws (11 aug)
@@ -86,6 +102,7 @@ Nu.nl:
 * OM neemt datalek bij het lab dat bevolkingsonderszoek uitvoerde [onder de loep](https://www.nu.nl/tech/6367006/om-neemt-datalek-bij-lab-dat-bevolkingsonderzoek-uitvoerde-onder-de-loep.html) (27 aug)
 * Al bijna 70.000 aanmeldingen voor [massaclaim](https://www.nu.nl/binnenland/6366955/al-bijna-70000-aanmeldingen-voor-massaclaim-na-lek-bij-bevolkingsonderzoek.html) na lek bij bevolkingsonderzoek (27 aug)
 * (Nu+) Nu al [massaclaims](https://www.nu.nl/binnenland/6366983/nu-al-massaclaims-rond-hack-bevolkingsonderzoek-te-vroeg-of-terecht.html) rond hack bevolkingsonderzoek (27 aug) 
+* Lek bevolkingsonderzoek groter dan gedacht: mogelijk data [alle 941.000 deelnemers](https://www.nu.nl/tech/6367189/lek-bevolkingsonderzoek-groter-dan-gedacht-mogelijk-data-alle-941000-deelnemers-gelekt.html){:target="_blank"} gelekt (29 aug)
 
 ## Opinie-stukken
 * [Opiniestuk](https://www.linkedin.com/pulse/waarom-de-laboratoriumhack-zo-ernstig-en-ophef-fleur-van-leusden-bfj9e/) van Fleur van Leusden, CISO en podcaster "CISO Praat"
