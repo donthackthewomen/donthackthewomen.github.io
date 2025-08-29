@@ -3,3 +3,10 @@ title: Digitale Dolle Mina's
 
 theme_config:
   back_home_text: "Home"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: "nl"
