@@ -14,7 +14,6 @@ Want jouw medische gegevens zijn geen handelswaar. Je hebt recht op duidelijkhei
 
 Baas in eigen data!
 
-
 ## Wat nu?
 
 Ik ben (meerdere opties mogelijk):
