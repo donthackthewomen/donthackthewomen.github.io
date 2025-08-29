@@ -26,7 +26,6 @@ Ik ben (meerdere opties mogelijk):
   <!-- * [aanbieders](aanbieders.md) van digitale diensten -->
 * [overheid](overheid.md) en wil weten hoe de politiek kan helpen bij het voorkomen van dit soort datalekken
 
-
 ## Eerste hulp initiatieven
 Wij proberen met onze actiegroep zoveel mogelijk praktisch en begrijpelijk expert-advies te geven. 
 
