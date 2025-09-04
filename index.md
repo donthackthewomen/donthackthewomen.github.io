@@ -102,6 +102,9 @@ Nu.nl:
 * (Nu+) Nu al [massaclaims](https://www.nu.nl/binnenland/6366983/nu-al-massaclaims-rond-hack-bevolkingsonderzoek-te-vroeg-of-terecht.html){:target="_blank"} rond hack bevolkingsonderzoek (27 aug) 
 * Lek bevolkingsonderzoek groter dan gedacht: mogelijk data [alle 941.000 deelnemers](https://www.nu.nl/tech/6367189/lek-bevolkingsonderzoek-groter-dan-gedacht-mogelijk-data-alle-941000-deelnemers-gelekt.html){:target="_blank"} gelekt (29 aug)
 
+Volkskrant:
+* [Ombudsman verwijt ministerie](https://www.volkskrant.nl/binnenland/ombudsman-verwijt-ministerie-passieve-houding-na-datalek-bevolkingsonderzoek-pak-uw-rol~bba0cb3d/){:target="_blank"} passieve houding na datalek bevolkingsonderzoek: ‘Pak uw rol’
+
 ## Opinie-stukken
 * [Opiniestuk](https://www.linkedin.com/pulse/waarom-de-laboratoriumhack-zo-ernstig-en-ophef-fleur-van-leusden-bfj9e/){:target="_blank"} van Fleur van Leusden, CISO en podcaster "CISO Praat"
 * [Opiniestuk](opinie.md) All the Cyber Ladies ([bron](https://www.allthecyberladies.nl/medische-gegevens-zijn-geen-handelswaar/){:target="_blank"})
