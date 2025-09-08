@@ -109,8 +109,9 @@ Volkskrant:
 * [Opiniestuk](https://www.linkedin.com/pulse/waarom-de-laboratoriumhack-zo-ernstig-en-ophef-fleur-van-leusden-bfj9e/){:target="_blank"} van Fleur van Leusden, CISO en podcaster "CISO Praat"
 * [Opiniestuk](opinie.md) All the Cyber Ladies ([bron](https://www.allthecyberladies.nl/medische-gegevens-zijn-geen-handelswaar/){:target="_blank"})
 
-## Podcasts
+## Audio
 * Angry Nerds [262](https://www.youtube.com/live/kFramcF1mEU){:target="_blank"}: Kutzooi
+* Digitale Dolle Mina's op [Radio 1](https://www.nporadio1.nl/podcasts/vroeg/130053/08-09-digitale-data-van-burgers-wordt-te-nonchalant-over-gedacht){:target="_blank"}
 
 ## Algemene adviezen digitale veiligheid
 Voor iedereen geldt dat digitale veiligheid belangrijk is om jezelf te beschermen tegen aanvallen zoals identiteitsfraude, afpersing en andere risico's. Op de volgende websites kun je goede adviezen vinden om je digitale veiligheid te versterken.
