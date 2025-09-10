@@ -101,6 +101,7 @@ Nu.nl:
 * Al bijna 70.000 aanmeldingen voor [massaclaim](https://www.nu.nl/binnenland/6366955/al-bijna-70000-aanmeldingen-voor-massaclaim-na-lek-bij-bevolkingsonderzoek.html){:target="_blank"} na lek bij bevolkingsonderzoek (27 aug)
 * (Nu+) Nu al [massaclaims](https://www.nu.nl/binnenland/6366983/nu-al-massaclaims-rond-hack-bevolkingsonderzoek-te-vroeg-of-terecht.html){:target="_blank"} rond hack bevolkingsonderzoek (27 aug) 
 * Lek bevolkingsonderzoek groter dan gedacht: mogelijk data [alle 941.000 deelnemers](https://www.nu.nl/tech/6367189/lek-bevolkingsonderzoek-groter-dan-gedacht-mogelijk-data-alle-941000-deelnemers-gelekt.html){:target="_blank"} gelekt (29 aug)
+* Hackers bevolkingsonderzoek hadden toegang tot data van [850.000 deelnemers](https://www.nu.nl/tech/6367249/hackers-bevolkingsonderzoek-hadden-toegang-tot-data-van-850000-deelnemers.html){:target="_blank"} gelekt (29 aug)
 
 Volkskrant:
 * [Ombudsman verwijt ministerie](https://www.volkskrant.nl/binnenland/ombudsman-verwijt-ministerie-passieve-houding-na-datalek-bevolkingsonderzoek-pak-uw-rol~bba0cb3d/){:target="_blank"} passieve houding na datalek bevolkingsonderzoek: ‘Pak uw rol’
