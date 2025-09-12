@@ -39,3 +39,4 @@ Denk je dat je slachtoffer bent van identiteitsfraude, neem dan contact op met [
 * [Algemeen advies](https://www.autoriteitpersoonsgegevens.nl/themas/beveiliging/datalekken/slachtoffer-van-een-datalek-dit-kunt-u-doen){:target="_blank"} voor gedupeerden van Autoriteit Persoonsgegevens
 * Advies over [phishing](https://www.rijksoverheid.nl/onderwerpen/cybercrime-en-cybersecurity/vraag-en-antwoord/phishing){:target="_blank"} van de Rijksoverheid
 * [LinkedIn groep](https://lnkd.in/e4PvZjy6){:target="_blank"} voor gedupeerden
+* [HELP!](https://www.privacycompany.eu/nl/blog/help-mijn-persoonlijke-gegevens-liggen-op-straat-en-nu){:target="_blank"} Mijn persoonlijke gegevens liggen op straat… En nu? - Privacy Company

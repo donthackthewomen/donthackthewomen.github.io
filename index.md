@@ -38,6 +38,7 @@ Bevolkingsonderzoek Nederland:
 * [Nieuwsbericht](https://www.bevolkingsonderzoeknederland.nl/nieuws/ruim-405000-deelnemers-bevolkingsonderzoek-baarmoederhalskanker-ontvangen-brief-na-datalek/){:target="_blank"} over brief naar aanleiding van het datalek (19 aug)
 * [Brieftekst](https://www.bevolkingsonderzoeknederland.nl/media/nqkh2hr1/20250811_conceptbrief-cli%C3%ABnten-incident-bmhk_def.pdf){:target="_blank"} 
 * [Veelgestelde vragen](https://www.bevolkingsonderzoeknederland.nl/baarmoederhalskanker/veelgestelde-vragen-datalek/){:target="_blank"} over het datalek
+* [Update](https://www.bevolkingsonderzoeknederland.nl/nieuws/update-datalek-bevolkingsonderzoek-baarmoederhalskanker/){:target="_blank"} over de nieuwe brievenronde (12 sep)
 
 Clinical Diagnostics: 
 * [Start](https://clinicaldiagnostics.nl/nl/belangrijk-bericht-over-gegevens-van-patienten-en-zorgverleners/){:target="_blank"} bericht van Clinical Diagnostics
@@ -66,6 +67,8 @@ NOS:
 * [Strafrechtelijk onderzoek](https://nos.nl/artikel/2580125-strafrechtelijk-onderzoek-naar-datalek-bij-laboratorium-bevolkingsonderzoek){:target="_blank"} naar datalek bij laboratorium bevolkingsonderzoek (27 aug)
 * Bijna [70.000 aanmeldingen](https://nos.nl/artikel/2580080-bijna-70-000-aanmeldingen-voor-massaclaim-na-hack-bij-bevolkingsonderzoek){:target="_blank"} voor massaclaim na hack bij bevolkingsonderzoek
 * Datalek bevolkingsonderzoek blijkt nog groter: zeker [700.000 vrouwen getroffen](https://nos.nl/artikel/2580325-datalek-bevolkingsonderzoek-blijkt-nog-groter-zeker-700-000-vrouwen-getroffen){:target="_blank"} (29 aug)
+* Hackers laboratorium hadden toegang tot gegevens [850.000 mensen](https://nos.nl/artikel/2580363-hackers-laboratorium-hadden-toegang-tot-gegevens-850-000-mensen){:target="_blank"}
+* [Nieuwe ronde](https://nos.nl/artikel/2582114-nieuwe-ronde-brieven-datalek-bevolkingsonderzoek-op-de-mat-941-000-in-totaal){:target="_blank"} brieven datalek bevolkingsonderzoek op de mat, 941.000 in totaal (12 sep)
 
 RTL Nieuws:
 * Data [half miljoen vrouwen](https://www.rtl.nl/nieuws/binnenland/artikel/5522737/bevolkingsonderzoek-baarmoederhalskanker-data-gehackt-vrouwen){:target="_blank"} gehackt bij bevolkingsonderzoek baarmoederhalskanker - RTL Nieuws (11 aug)
@@ -79,6 +82,7 @@ RTL Nieuws:
 * [Hackers beloven](https://www.rtl.nl/nieuws/binnenland/artikel/5524548/nova-hackers-gestolen-data-niet-publiceren-dark-web-alles){:target="_blank"} niets te publiceren - RTL Nieuws (22 aug, 14:00)
 * [Inspectie onderzoekt laboratorium](https://www.rtl.nl/nieuws/binnenland/artikel/5524530/hacken-persoonsgegevens-baarmoederhalskanker-bevolkingsonderzoek){:target="_blank"} Clinical Diagnostics na datadiefstal bevolkingsonderzoek (22 aug)
 * [Twee massaclaims](https://www.rtl.nl/nieuws/binnenland/artikel/5525096/advocatenkantoren-massaclaim-slachtoffers-datalek){:target="_blank"} in de maak voor slachtoffers datalek, al duizenden aanmeldingen (26 aug)
+* Bijna [miljoen vrouwen](https://www.rtl.nl/nieuws/binnenland/artikel/5527978/bevolkingsonderzoek-nederland-laboratorium-baarmoederhalskanker){:target="_blank"} krijgen komende dagen brief vanwege gehackte data laboratorium
 
 Metro:
 * Datalek bevolkingsonderzoek is [nog groter](https://www.metronieuws.nl/in-het-nieuws/binnenland/2025/08/datalek-bevolkingsonderzoek-baarmoederhalskanker/){:target="_blank"} dan gedacht - Metro (12 aug)
@@ -110,9 +114,10 @@ Volkskrant:
 * [Opiniestuk](https://www.linkedin.com/pulse/waarom-de-laboratoriumhack-zo-ernstig-en-ophef-fleur-van-leusden-bfj9e/){:target="_blank"} van Fleur van Leusden, CISO en podcaster "CISO Praat"
 * [Opiniestuk](opinie.md) All the Cyber Ladies ([bron](https://www.allthecyberladies.nl/medische-gegevens-zijn-geen-handelswaar/){:target="_blank"})
 
-## Audio
+## In de Media
 * Angry Nerds [262](https://www.youtube.com/live/kFramcF1mEU){:target="_blank"}: Kutzooi
 * Digitale Dolle Mina's op [Radio 1](https://www.nporadio1.nl/podcasts/vroeg/130053/08-09-digitale-data-van-burgers-wordt-te-nonchalant-over-gedacht){:target="_blank"}
+* Digitale Dolle Mina's op [One Conference](https://one-conference.nl/session/clinical-diagnostics-and-the-digitale-dolle-minas/){:target="_blank"}
 
 ## Algemene adviezen digitale veiligheid
 Voor iedereen geldt dat digitale veiligheid belangrijk is om jezelf te beschermen tegen aanvallen zoals identiteitsfraude, afpersing en andere risico's. Op de volgende websites kun je goede adviezen vinden om je digitale veiligheid te versterken.
