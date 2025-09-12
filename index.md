@@ -38,6 +38,7 @@ Bevolkingsonderzoek Nederland:
 * [Nieuwsbericht](https://www.bevolkingsonderzoeknederland.nl/nieuws/ruim-405000-deelnemers-bevolkingsonderzoek-baarmoederhalskanker-ontvangen-brief-na-datalek/){:target="_blank"} over brief naar aanleiding van het datalek (19 aug)
 * [Brieftekst](https://www.bevolkingsonderzoeknederland.nl/media/nqkh2hr1/20250811_conceptbrief-cli%C3%ABnten-incident-bmhk_def.pdf){:target="_blank"} 
 * [Veelgestelde vragen](https://www.bevolkingsonderzoeknederland.nl/baarmoederhalskanker/veelgestelde-vragen-datalek/){:target="_blank"} over het datalek
+* [Update](https://www.bevolkingsonderzoeknederland.nl/nieuws/update-datalek-bevolkingsonderzoek-baarmoederhalskanker/){:target="_blank"} over de nieuwe brievenronde (12 sep)
 
 Clinical Diagnostics: 
 * [Start](https://clinicaldiagnostics.nl/nl/belangrijk-bericht-over-gegevens-van-patienten-en-zorgverleners/){:target="_blank"} bericht van Clinical Diagnostics
