@@ -116,6 +116,7 @@ Volkskrant:
 
 ## In de Media
 * Angry Nerds [262](https://www.youtube.com/live/kFramcF1mEU){:target="_blank"}: Kutzooi
+* Met Nerds om tafel [443](https://www.youtube.com/watch?v=8Js6EEUP43c){:target="_blank"}: De strijd van de Digitale Dolle Mina’s
 * Digitale Dolle Mina's op [Radio 1](https://www.nporadio1.nl/podcasts/vroeg/130053/08-09-digitale-data-van-burgers-wordt-te-nonchalant-over-gedacht){:target="_blank"}
 * Digitale Dolle Mina's op [One Conference](https://one-conference.nl/session/clinical-diagnostics-and-the-digitale-dolle-minas/){:target="_blank"}
 
