@@ -31,6 +31,17 @@ Ben je getroffen door het datalek? Dit zijn de belangrijkste stappen die je dire
 * Je kunt schadevergoeding vorderen (materieel én immaterieel) onder de AVG.
 * Dien eventueel een klacht in bij de Autoriteit Persoonsgegevens (AP) over het late of onzorgvuldige handelen.
 
+6. Wees alert op de volgende dingen:
+* Telefoontje ontvangen? Geef aan dat je jouw huisarts terugbelt wanneer het jou uitkomt (en gebruik het nummer dat bij jou bekend is). Doe dit zelfs als het telefoontje van je huisarts af lijkt te komen, want misschien 'spooft' (nabootst) men het nummer.
+* Onbekend nummer? Neem niet op.
+* Als ze zeggen dat het nummer is gewijzigd: bel niet naar een nieuw nummer. Bel altijd het nummer dat jijzelf hebt/kent.
+* Gaat het om mail? Reageer niet, maar bel of mail je huisarts.
+* Geef nooit - nooit - je inloggegevens, pincode, bankpas-nummer aan anderen door. Dit is privé-informatie en je bank of huisarts zal daar nooit om vragen.
+* Download en installeer NIETS, nooit, als iemand anders dit aan je vraagt.
+* Merk je dat er misbruik van je identiteit wordt gemaakt, meld het bij CMI Men kan je daar ook advies geven. Doe ook aangifte bij de politie.
+* Blijf alert, niet alleen nu. Je weet niet of en wanneer ze actief met jouw gegevens aan de gang gaan.
+* Dit lek staat los van het systeem van je huisarts. Die hebben hun beveiliging wel voor elkaar en gebruiken een specifiek, goed beveiligd systeem voor jouw medische gegevens.
+
 ## Identiteitsfraude
 
 Denk je dat je slachtoffer bent van identiteitsfraude, neem dan contact op met [CMI](https://www.rijksoverheid.nl/contact/contactgids/centraal-meldpunt-identiteitsfraude-cmi){:target="_blank"}, het Centraal Meldpunt Identiteitsfraude.

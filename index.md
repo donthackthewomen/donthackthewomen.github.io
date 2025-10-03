@@ -113,6 +113,7 @@ Volkskrant:
 ## Opinie-stukken
 * [Opiniestuk](https://www.linkedin.com/pulse/waarom-de-laboratoriumhack-zo-ernstig-en-ophef-fleur-van-leusden-bfj9e/){:target="_blank"} van Fleur van Leusden, CISO en podcaster "CISO Praat"
 * [Opiniestuk](opinie.md) All the Cyber Ladies ([bron](https://www.allthecyberladies.nl/medische-gegevens-zijn-geen-handelswaar/){:target="_blank"})
+* [Dank](https://www.agconnect.nl/maatschappij/ethiek/dank-aan-de-digitale-dolle-minas){:target="_blank"} aan de Digitale Dolle Mina’s - Brenno de Winter
 
 ## In de Media
 * Angry Nerds [262](https://www.youtube.com/live/kFramcF1mEU){:target="_blank"}: Kutzooi
