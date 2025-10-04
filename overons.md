@@ -20,7 +20,7 @@ Dit initiatief wordt gedragen door de Digitale Dolle Mina’s:
 * [Chantal Stekelenburg](https://www.linkedin.com/in/chantalstekelenburg/){:target="_blank"} – Oprichter Women in Cybersecurity Community Association (WICCA)
 * [Daniëlle Wagemakers](https://www.linkedin.com/in/daniellewagemakers/){:target="_blank"} - Senior Security Consultant
 * Ellen Mok – Ondernemer en oud-AIVD
-* Esther Peeters – CISO
+* [Esther Peeters](https://www.linkedin.com/in/esther-peeters-4049316/){:target="_blank"} – CISO
 * Fleur van Leusden – CISO en podcastmaker CISO praat
 * [Helma de Boer](https://www.linkedin.com/in/helmadeboer/){:target="_blank"} - Lead Privacy Expertise Centrum SURF
 * Lucinda Sterk – Podcastmaker All the Cyber Ladies
