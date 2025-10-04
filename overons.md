@@ -18,11 +18,11 @@ Druk op verandering – we pleiten voor betere bescherming van medische gegevens
 Dit initiatief wordt gedragen door de Digitale Dolle Mina’s:
 * [Astrid Oosenbrug](https://www.linkedin.com/in/astridoosenbrug/){:target="_blank"} – Co-founder Dutch Institute for Vulnerability Disclosure & DIVD Academy
 * [Chantal Stekelenburg](https://www.linkedin.com/in/chantalstekelenburg/){:target="_blank"} – Oprichter Women in Cybersecurity Community Association (WICCA)
-* [Danielle Wagemakers](https://www.linkedin.com/in/daniellewagemakers/){:target="_blank"} - Senior Security Consultant
+* [Daniëlle Wagemakers](https://www.linkedin.com/in/daniellewagemakers/){:target="_blank"} - Senior Security Consultant
 * Ellen Mok – Ondernemer en oud-AIVD
 * Esther Peeters – CISO
 * Fleur van Leusden – CISO en podcastmaker CISO praat
-* [Helmade Boer](https://www.linkedin.com/in/helmadeboer/){:target="_blank"} - 
+* [Helma de Boer](https://www.linkedin.com/in/helmadeboer/){:target="_blank"} - Lead Privacy Expertise Centrum SURF
 * Lucinda Sterk – Podcastmaker All the Cyber Ladies
 * Madelein van der Hout – Onderzoeker cybersecurity bij Forrester
 * [Marjolein Tamis](https://www.linkedin.com/in/marjoleintamis/){:target="_blank"} – Documentatiespecialist
