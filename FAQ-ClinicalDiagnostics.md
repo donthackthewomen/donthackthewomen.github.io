@@ -6,9 +6,9 @@ title: Veelgestelde Vragen hack Bevolkingsonderzoek Nederland & Clinical Diagnos
 Laatste update: 9 oktober 2025
  Bronnen: Bevolkingsonderzoek Nederland, NOS, Techzine, Tweakers, Clinical Diagnostics, InEen, DC Klinieken, Autoriteit Persoonsgegevens
 
-1. [Wat is er precies gebeurd?](##1-Wat-is-er-precies-gebeurd)
-2. [Hoeveel mensen zijn getroffen?](##2-Hoeveel-mensen-zijn-getroffen)
-
+1. [Wat is er precies gebeurd?](#1-Wat-is-er-precies-gebeurd)
+2. [Hoeveel mensen zijn getroffen?](#2-Hoeveel-mensen-zijn-getroffen)
+3. [Waarom kwam de melding pas later?](#3-Waarom-kwam-de-melding-pas-later)
 
 ## 1. Wat is er precies gebeurd?
 Tussen 3 en 6 juli 2025 is het laboratorium Clinical Diagnostics NMDL in Rijswijk aangevallen met een ransomware-aanval. Gegevens op computers werden versleuteld en gekopieerd door de criminele groep Nova. 
