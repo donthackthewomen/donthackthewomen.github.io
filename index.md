@@ -1,4 +1,4 @@
-# Datalek Clinical Diagnostics
+# Digitale Dolle Mina's
 
 Het datalek bij Clinical Diagnostics heeft honderdduizenden vrouwen geraakt. Misschien ben jij één van hen. Misschien heb je net die brief ontvangen en zit je met vragen: Wat betekent dit voor mij? Moet ik iets doen? Ben ik nu in gevaar?
 
