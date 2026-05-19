@@ -111,5 +111,6 @@ Digitale veiligheid is pas echte veiligheid als zij ook werkt voor mensen voor w
 
 Een systeem is pas veilig als het ook veilig is voor mensen die het meeste risico lopen.
 
-**Digitale Dolle Mina’s
-Baas over eigen data**
+**Digitale Dolle Mina’s**
+
+**Baas over eigen data**
