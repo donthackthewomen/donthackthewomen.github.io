@@ -26,6 +26,5 @@ Dit initiatief wordt gedragen door de Digitale Dolle Mina’s:
 * Lucinda Sterk – Podcastmaker All the Cyber Ladies
 * Madelein van der Hout – Onderzoeker cybersecurity bij Forrester
 * [Marjolein Tamis](https://www.linkedin.com/in/marjoleintamis/){:target="_blank"} – Documentatiespecialist
-* [Bram Patelski](){:target="_blank"} - AppSecEngineer, Technische ondersteuning
 * En meer...
 
